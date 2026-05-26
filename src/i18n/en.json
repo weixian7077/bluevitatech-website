@@ -1,0 +1,329 @@
+{
+  "nav": {
+    "about": "About Us",
+    "products": "Products",
+    "tech": "Technology",
+    "ai": "AI Innovation",
+    "partners": "Partners",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "hero": {
+    "badge": "National High-tech Enterprise · Guangdong Specialized and Innovative Enterprise",
+    "title": "Smart Mobile E-Health Expert",
+    "subtitle": "Huizhou BluevitaTech Co., Ltd.",
+    "description": "Founded in 2015, specializing in R&D and production of smart mobile medical electronics, 5G smart terminals, and IoT products. With 20 years of North American carrier customization experience, FDA medical certification, and Google EDLA enterprise certification, serving the global high-end medical market.",
+    "exploreProducts": "Explore Products",
+    "learnMore": "Learn More",
+    "stats": {
+      "experience": "Years Experience",
+      "fdaCert": "FDA Certified",
+      "publicClients": "Public Company Clients",
+      "fiveG": "5G Smart Terminal"
+    }
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "About BluevitaTech",
+    "subtitle": "Market-oriented, quality-focused. Providing satisfactory products and services, continuously pursuing quality improvement and excellence.",
+    "mainTitle": "Focused on Smart Mobile Healthcare & Communication Terminals",
+    "p1": "Huizhou BluevitaTech Co., Ltd. is located in the National High-tech Industrial Development Zone of Huizhou, Guangdong. Founded in September 2015 with a registered capital of 3 million RMB.",
+    "p2": "The company is a National High-tech Enterprise, Guangdong Specialized and Innovative Enterprise, and Double-Soft Enterprise. Specializing in R&D and production of smart mobile medical electronics, smart mobile communication terminals, and IoT products. Providing enterprise customers with smartphones, tablets, IoT terminals, and data terminals that meet Google EDLA certification, as well as smart medical terminal products with FDA certification.",
+    "p3": "Core team members have years of experience in mobile communication terminal design and integration for European and American markets, as well as medical electronic instrument design and integration. Maintaining long-term cooperation and technical exchanges with renowned units in the biomedical electronics field both domestically and internationally.",
+    "highlights": {
+      "global": {
+        "title": "Global Presence",
+        "desc": "Offices in Huizhou, Chengdu, Jiangxi, Hong Kong, and USA"
+      },
+      "qualification": {
+        "title": "Qualifications",
+        "desc": "National High-tech Enterprise, Double-Soft Enterprise, Guangdong Specialized Enterprise"
+      },
+      "tech": {
+        "title": "Tech Authorization",
+        "desc": "Qualcomm, Samsung 4G/5G/IoT platform development authorization"
+      },
+      "market": {
+        "title": "Market Coverage",
+        "desc": "80% clients are public companies in North America and Europe"
+      }
+    },
+    "stats": {
+      "founded": "Founded",
+      "capital": "Registered Capital",
+      "accumulation": "Tech Accumulation",
+      "fda": "FDA Certified"
+    }
+  },
+  "products": {
+    "badge": "Products",
+    "title": "Product Center",
+    "subtitle": "9 core products covering mobile communication terminals, 5G IoT modules, and medical smart terminals",
+    "filters": {
+      "all": "All Products",
+      "comm": "Communication",
+      "medical": "Medical",
+      "iot": "IoT Module"
+    },
+    "viewDetails": "View Details",
+    "categories": {
+      "comm": "Communication Terminal",
+      "medical": "Medical Terminal",
+      "iot": "IoT Module"
+    }
+  },
+  "tech": {
+    "badge": "Technology",
+    "title": "Core Technology",
+    "subtitle": "20 years of technology accumulation, deep integration of broadband mobile communication + internet + AI technology",
+    "intro": "Enterprise-level smart medical electronics/mobile communication terminal solution provider dedicated to meeting North American market standards. Leveraging deep integration of 4G/5G/6G broadband mobile communication technology + internet + AI technology to achieve cross-dimensional empowerment, providing enterprise customers with high-standard, high-quality smartphones, tablets, IoT terminals, data terminals, and smart medical terminal products.",
+    "products": "Products support mobile internet system deployment (mobile client + server) and applications, enabling customers to achieve cross-dimensional product expansion.",
+    "highlights": {
+      "team": "Core technology team with over 20 years of continuous refinement in mobile terminal platforms",
+      "operator": "Focused on high-threshold exclusive customization for North American carriers (Verizon/T-Mobile/AT&T) with dedicated product management, development, and supply systems",
+      "chip": "Possesses technology development authorization and support from international mainstream mobile communication terminal chip platforms",
+      "edla": "Google EDLA certified, providing smartphones, tablets, IoT terminals, data terminals, and smart medical terminal products for enterprise customers"
+    },
+    "cards": {
+      "communication": {
+        "title": "Communication Tech",
+        "items": ["4G/5G/5G-A/6G R&D", "WiFi 6e/WiFi 7/MU-MIMO", "Qualcomm platform since 2002", "NA carrier customization since 2005"]
+      },
+      "sensor": {
+        "title": "Sensor Tech",
+        "items": ["Sensor Hub specification", "MEMS sensor integration", "Temperature/HR/SpO2/ECG/BP", "Patented camera drip detection"]
+      },
+      "ai": {
+        "title": "AI Computing",
+        "items": ["NPU/CPU/GPU heterogeneous computing", "AI model edge deployment", "Edge computing capability", "Google Gemini integration"]
+      },
+      "cloud": {
+        "title": "Cloud & Big Data",
+        "items": ["Cloud platform deployment", "Big data analytics engine", "Mobile internet system", "Cloud + client integration"]
+      },
+      "certification": {
+        "title": "Certification & Security",
+        "items": ["Google EDLA certification", "FDA medical device certification", "National High-tech Enterprise", "Guangdong Specialized Enterprise"]
+      },
+      "manufacturing": {
+        "title": "Global Manufacturing",
+        "items": ["Own factory in China (Jiangxi)", "Vietnam manufacturing partner", "Philippines manufacturing partner", "Japan/USA manufacturing cooperation"]
+      }
+    }
+  },
+  "ai": {
+    "badge": "AI Innovation",
+    "title": "AI Innovation Technology",
+    "subtitle": "Full integration with Google Gemini for diverse AI empowerment",
+    "intro": "Leveraging platform NPU/CPU/GPU computing power, supporting various Gemini models to build AI applications and agents. Achieving multimodal construction with seamless reasoning capabilities across text, images, audio, video, and code. From Nano to Ultra models, all have been learned and deployed.",
+    "models": {
+      "nano": {
+        "title": "Gemini Nano",
+        "desc": "Efficient on-device inference, low-power AI experience, ideal for mobile terminals and IoT devices"
+      },
+      "flash": {
+        "title": "Gemini Flash",
+        "desc": "Ultra-fast response, lightweight task processing, ideal for real-time interaction and quick inference"
+      },
+      "pro": {
+        "title": "Gemini Pro",
+        "desc": "Balanced performance and efficiency, ideal for enterprise applications and complex AI tasks"
+      },
+      "ultra": {
+        "title": "Gemini Ultra",
+        "desc": "Maximum computing power, top-tier multimodal capabilities, ideal for high-precision medical AI"
+      }
+    }
+  },
+  "partners": {
+    "badge": "Partners",
+    "title": "Our Partners",
+    "subtitle": "Global top technology platforms and industry leaders"
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Contact Us",
+    "subtitle": "Looking forward to working with you to create the future of smart healthcare",
+    "address": "Headquarters",
+    "addressValue": "23F, Zhanchuang Building, No.15 Binhe East Road, Zhongkai High-tech Zone, Huizhou",
+    "offices": "Global Offices",
+    "officesValue": "Huizhou · Chengdu · Jiangxi · Hong Kong · USA",
+    "email": "Email",
+    "emailValue": "contact@bluevitatech.com",
+    "website": "Website",
+    "websiteValue": "www.bluevitatech.com"
+  },
+  "footer": {
+    "copyright": "Huizhou BluevitaTech Co., Ltd. All Rights Reserved."
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "content": {
+      "title": "Content Management",
+      "save": "Save",
+      "saving": "Saving...",
+      "saveSuccess": "Saved successfully!",
+      "saveError": "Save failed, please retry",
+      "refresh": "Refresh",
+      "hero": {
+        "badge": "Badge",
+        "badgeEn": "Badge (English)",
+        "title": "Title",
+        "titleEn": "Title (English)",
+        "subtitle": "Subtitle",
+        "subtitleEn": "Subtitle (English)",
+        "description": "Description",
+        "descriptionEn": "Description (English)",
+        "exploreProducts": "Explore Products Button",
+        "exploreProductsEn": "Explore Products Button (English)",
+        "learnMore": "Learn More Button",
+        "learnMoreEn": "Learn More Button (English)"
+      },
+      "about": {
+        "title": "Title",
+        "titleEn": "Title (English)",
+        "subtitle": "Subtitle",
+        "subtitleEn": "Subtitle (English)",
+        "mainTitle": "Main Title",
+        "mainTitleEn": "Main Title (English)",
+        "p1": "Paragraph 1",
+        "p1En": "Paragraph 1 (English)",
+        "p2": "Paragraph 2",
+        "p2En": "Paragraph 2 (English)",
+        "p3": "Paragraph 3",
+        "p3En": "Paragraph 3 (English)",
+        "highlights": "Highlights",
+        "highlightTitle": "Title",
+        "highlightTitleEn": "Title (English)",
+        "highlightDesc": "Description",
+        "highlightDescEn": "Description (English)"
+      },
+      "products": {
+        "title": "Title",
+        "titleEn": "Title (English)",
+        "subtitle": "Subtitle",
+        "subtitleEn": "Subtitle (English)",
+        "viewDetails": "View Details Button",
+        "viewDetailsEn": "View Details Button (English)",
+        "filters": "Filters",
+        "filter": "Filter"
+      },
+      "tech": {
+        "title": "Title",
+        "titleEn": "Title (English)",
+        "subtitle": "Subtitle",
+        "subtitleEn": "Subtitle (English)",
+        "intro": "Introduction",
+        "introEn": "Introduction (English)",
+        "products": "Products Description",
+        "productsEn": "Products Description (English)",
+        "highlights": "Highlights",
+        "highlight": "Highlight Item",
+        "cards": "Tech Cards",
+        "cardTitle": "Card Title",
+        "cardTitleEn": "Card Title (English)",
+        "cardItem": "Card Item",
+        "cardItemEn": "Card Item (English)"
+      },
+      "ai": {
+        "title": "Title",
+        "titleEn": "Title (English)",
+        "subtitle": "Subtitle",
+        "subtitleEn": "Subtitle (English)",
+        "intro": "Introduction",
+        "introEn": "Introduction (English)",
+        "models": "Models",
+        "modelTitle": "Model Title",
+        "modelDesc": "Model Description",
+        "modelDescEn": "Model Description (English)"
+      },
+      "partners": {
+        "title": "Title",
+        "titleEn": "Title (English)",
+        "subtitle": "Subtitle",
+        "subtitleEn": "Subtitle (English)"
+      },
+      "contact": {
+        "title": "Title",
+        "titleEn": "Title (English)",
+        "subtitle": "Subtitle",
+        "subtitleEn": "Subtitle (English)",
+        "address": "Address Label",
+        "addressEn": "Address Label (English)",
+        "addressValue": "Address Value",
+        "addressValueEn": "Address Value (English)",
+        "offices": "Offices Label",
+        "officesEn": "Offices Label (English)",
+        "officesValue": "Offices Value",
+        "officesValueEn": "Offices Value (English)",
+        "email": "Email Label",
+        "emailEn": "Email Label (English)",
+        "emailValue": "Email Value",
+        "website": "Website Label",
+        "websiteEn": "Website Label (English)",
+        "websiteValue": "Website Value"
+      },
+      "footer": {
+        "copyright": "Copyright",
+        "copyrightEn": "Copyright (English)"
+      },
+      "nav": {
+        "item": "Nav Item"
+      }
+    },
+    "products": {
+      "title": "Product Management",
+      "add": "Add Product",
+      "edit": "Edit Product",
+      "delete": "Delete Product",
+      "confirmDelete": "Are you sure you want to delete this product?",
+      "nameZh": "Product Name (Chinese)",
+      "nameEn": "Product Name (English)",
+      "categoryZh": "Category (Chinese)",
+      "categoryEn": "Category (English)",
+      "briefZh": "Brief (Chinese)",
+      "briefEn": "Brief (English)",
+      "image": "Product Image",
+      "tags": "Tags",
+      "specsZh": "Specifications (Chinese)",
+      "specsEn": "Specifications (English)",
+      "specLabel": "Parameter Name",
+      "specValue": "Parameter Value",
+      "addSpec": "Add Parameter",
+      "save": "Save",
+      "cancel": "Cancel"
+    },
+    "partners": {
+      "title": "Partner Management",
+      "add": "Add Partner",
+      "edit": "Edit Partner",
+      "delete": "Delete Partner",
+      "confirmDelete": "Are you sure you want to delete this partner?",
+      "name": "Name",
+      "typeZh": "Type (Chinese)",
+      "typeEn": "Type (English)",
+      "icon": "Icon",
+      "image": "Logo Image",
+      "link": "Link URL",
+      "save": "Save",
+      "cancel": "Cancel"
+    },
+    "upload": {
+      "title": "Upload Image",
+      "dragDrop": "Drag and drop image here or click to upload",
+      "supported": "Supports JPG, PNG formats"
+    },
+    "actions": {
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "backHome": "Back to Home"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "confirm": "Confirm",
+    "cancel": "Cancel"
+  }
+}

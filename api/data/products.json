@@ -1,0 +1,520 @@
+[
+  {
+    "id": "1",
+    "nameZh": "5G企业客户智能手机",
+    "nameEn": "5G Enterprise Smartphone",
+    "categoryZh": "通信终端",
+    "categoryEn": "Communication Terminal",
+    "tags": [
+      "EDLA"
+    ],
+    "briefZh": "6.67英寸FHD+ OLED · 8GB+256GB · 5G Sub6&mmW",
+    "briefEn": "6.67\" FHD+ OLED · 8GB+256GB · 5G Sub6&mmWave",
+    "specsZh": [
+      {
+        "label": "显示屏",
+        "value": "6.67英寸 FHD+ OLED高清分辨率"
+      },
+      {
+        "label": "内存/存储",
+        "value": "8GB+256GB"
+      },
+      {
+        "label": "网络支持",
+        "value": "2G/3G/4G/5G Sub6&mmWave"
+      },
+      {
+        "label": "WiFi",
+        "value": "2.4G/5GHz"
+      },
+      {
+        "label": "摄像头",
+        "value": "前摄16MP / 后三摄108+8+2MP"
+      },
+      {
+        "label": "电池容量",
+        "value": "5000mAh"
+      },
+      {
+        "label": "操作系统",
+        "value": "Android智能系统，空中升级"
+      },
+      {
+        "label": "AI功能",
+        "value": "AI智能算法及应用"
+      },
+      {
+        "label": "认证",
+        "value": "北美运营商认证 · 谷歌EDLA企业认证"
+      }
+    ],
+    "specsEn": [
+      {
+        "label": "Display",
+        "value": "6.67\" FHD+ OLED HD Resolution"
+      },
+      {
+        "label": "Memory/Storage",
+        "value": "8GB+256GB"
+      },
+      {
+        "label": "Network",
+        "value": "2G/3G/4G/5G Sub6&mmWave"
+      },
+      {
+        "label": "WiFi",
+        "value": "2.4G/5GHz"
+      },
+      {
+        "label": "Camera",
+        "value": "Front 16MP / Rear 108+8+2MP Triple"
+      },
+      {
+        "label": "Battery",
+        "value": "5000mAh"
+      },
+      {
+        "label": "OS",
+        "value": "Android Smart System, OTA Upgrade"
+      },
+      {
+        "label": "AI Features",
+        "value": "AI Smart Algorithms & Applications"
+      },
+      {
+        "label": "Certification",
+        "value": "NA Carrier · Google EDLA Enterprise"
+      }
+    ],
+    "image": "/uploads/1779326013440-r4kwxcy9vm8.jpg",
+    "cat": "comm"
+  },
+  {
+    "id": "2",
+    "nameZh": "5G企业客户智能平板电脑",
+    "nameEn": "5G Enterprise Tablet",
+    "categoryZh": "通信终端",
+    "categoryEn": "Communication Terminal",
+    "tags": [
+      "EDLA"
+    ],
+    "briefZh": "10.95英寸FHD · 8GB+256GB · 5G Sub6/mmWave",
+    "briefEn": "10.95\" FHD · 8GB+256GB · 5G Sub6/mmWave",
+    "specsZh": [
+      {
+        "label": "显示屏",
+        "value": "10.95英寸 FHD高清分辨率"
+      },
+      {
+        "label": "内存/存储",
+        "value": "8GB+256GB"
+      },
+      {
+        "label": "网络支持",
+        "value": "2G/3G/4G/5G Sub6/mmWave"
+      },
+      {
+        "label": "WiFi",
+        "value": "2.4/5/6GHz"
+      },
+      {
+        "label": "摄像头",
+        "value": "前摄32MP / 后摄50+8+2MP"
+      },
+      {
+        "label": "电池容量",
+        "value": "10000mAh"
+      },
+      {
+        "label": "操作系统",
+        "value": "Android智能系统，空中升级"
+      },
+      {
+        "label": "AI功能",
+        "value": "AI智能算法及应用"
+      },
+      {
+        "label": "认证",
+        "value": "北美运营商认证 · 谷歌EDLA企业认证"
+      }
+    ],
+    "specsEn": [
+      {
+        "label": "Display",
+        "value": "10.95\" FHD HD Resolution"
+      },
+      {
+        "label": "Memory/Storage",
+        "value": "8GB+256GB"
+      },
+      {
+        "label": "Network",
+        "value": "2G/3G/4G/5G Sub6/mmWave"
+      },
+      {
+        "label": "WiFi",
+        "value": "2.4/5/6GHz"
+      },
+      {
+        "label": "Camera",
+        "value": "Front 32MP / Rear 50+8+2MP"
+      },
+      {
+        "label": "Battery",
+        "value": "10000mAh"
+      },
+      {
+        "label": "OS",
+        "value": "Android Smart System, OTA Upgrade"
+      },
+      {
+        "label": "AI Features",
+        "value": "AI Smart Algorithms & Applications"
+      },
+      {
+        "label": "Certification",
+        "value": "NA Carrier · Google EDLA Enterprise"
+      }
+    ],
+    "image": "/uploads/1779326045968-b6hw86tbnse.jpg",
+    "cat": "comm"
+  },
+  {
+    "id": "4",
+    "nameZh": "5G企业客户MiFi",
+    "nameEn": "5G Enterprise MiFi",
+    "categoryZh": "通信终端",
+    "categoryEn": "Communication Terminal",
+    "tags": [],
+    "briefZh": "1.44英寸屏幕 · 5G Sub6/mmWave · OpenWRT系统",
+    "briefEn": "1.44\" Screen · 5G Sub6/mmWave · OpenWRT System",
+    "specsZh": [
+      {
+        "label": "显示屏",
+        "value": "1.44英寸屏幕显示"
+      },
+      {
+        "label": "网络支持",
+        "value": "2G/3G/4G/5G Sub6/mmWave"
+      },
+      {
+        "label": "WiFi",
+        "value": "2.4/5/6GHz"
+      },
+      {
+        "label": "用户界面",
+        "value": "设备内置UI + Web UI"
+      },
+      {
+        "label": "电池容量",
+        "value": "5000mAh"
+      },
+      {
+        "label": "操作系统",
+        "value": "OpenWRT系统，空中升级"
+      },
+      {
+        "label": "AI功能",
+        "value": "AI代理智能算法及应用"
+      },
+      {
+        "label": "管理系统",
+        "value": "企业客户批量授权管理(MDM)"
+      },
+      {
+        "label": "认证",
+        "value": "北美运营商网络认证"
+      }
+    ],
+    "specsEn": [
+      {
+        "label": "Display",
+        "value": "1.44\" Screen"
+      },
+      {
+        "label": "Network",
+        "value": "2G/3G/4G/5G Sub6/mmWave"
+      },
+      {
+        "label": "WiFi",
+        "value": "2.4/5/6GHz"
+      },
+      {
+        "label": "Interface",
+        "value": "Built-in UI + Web UI"
+      },
+      {
+        "label": "Battery",
+        "value": "5000mAh"
+      },
+      {
+        "label": "OS",
+        "value": "OpenWRT System, OTA Upgrade"
+      },
+      {
+        "label": "AI Features",
+        "value": "AI Agent Smart Algorithms"
+      },
+      {
+        "label": "Management",
+        "value": "Enterprise MDM"
+      },
+      {
+        "label": "Certification",
+        "value": "NA Carrier Network"
+      }
+    ],
+    "image": "/uploads/1779326120139-5r9gs3t572n.jpg",
+    "cat": "comm"
+  },
+  {
+    "id": "5",
+    "nameZh": "儿童智能手表",
+    "nameEn": "Kids Smart Watch",
+    "categoryZh": "通信终端",
+    "categoryEn": "Communication Terminal",
+    "tags": [],
+    "briefZh": "1.8英寸AMOLED · 3G/4G · 健康监测 · 5ATM防水",
+    "briefEn": "1.8\" AMOLED · 3G/4G · Health Monitoring · 5ATM Waterproof",
+    "specsZh": [
+      {
+        "label": "显示屏",
+        "value": "1.8英寸AMOLED高清大屏"
+      },
+      {
+        "label": "网络支持",
+        "value": "3G/4G"
+      },
+      {
+        "label": "WiFi",
+        "value": "2.4/5GHz"
+      },
+      {
+        "label": "健康监测",
+        "value": "体温/心率/血氧监测"
+      },
+      {
+        "label": "AI功能",
+        "value": "语音唤醒+AI代理智能算法"
+      },
+      {
+        "label": "安全功能",
+        "value": "快速急救求助"
+      },
+      {
+        "label": "防水等级",
+        "value": "5ATM防水"
+      },
+      {
+        "label": "管理系统",
+        "value": "企业客户批量授权管理(MDM)"
+      },
+      {
+        "label": "认证",
+        "value": "北美运营商网络认证"
+      }
+    ],
+    "specsEn": [
+      {
+        "label": "Display",
+        "value": "1.8\" AMOLED HD Screen"
+      },
+      {
+        "label": "Network",
+        "value": "3G/4G"
+      },
+      {
+        "label": "WiFi",
+        "value": "2.4/5GHz"
+      },
+      {
+        "label": "Health Monitoring",
+        "value": "Temperature/HR/SpO2"
+      },
+      {
+        "label": "AI Features",
+        "value": "Voice Wake-up + AI Agent"
+      },
+      {
+        "label": "Safety",
+        "value": "Quick Emergency SOS"
+      },
+      {
+        "label": "Waterproof",
+        "value": "5ATM Water Resistant"
+      },
+      {
+        "label": "Management",
+        "value": "Enterprise MDM"
+      },
+      {
+        "label": "Certification",
+        "value": "NA Carrier Network"
+      }
+    ],
+    "image": "/uploads/1779326134390-evy12gk8ds7.jpg",
+    "cat": "comm"
+  },
+  {
+    "id": "6",
+    "nameZh": "第五代智能移动血糖仪",
+    "nameEn": "5th Gen Smart Mobile Glucometer",
+    "categoryZh": "医疗终端",
+    "categoryEn": "Medical Terminal",
+    "tags": [
+      "FDA"
+    ],
+    "briefZh": "2G/3G/4G/5G · FDA认证 · 超高准确度 · AI算法",
+    "briefEn": "2G/3G/4G/5G · FDA Certified · High Accuracy · AI Algorithms",
+    "specsZh": [
+      {
+        "label": "网络接口",
+        "value": "2G/3G/4G/5G无线接入"
+      },
+      {
+        "label": "测试准确度",
+        "value": "超高准确度血糖测试"
+      },
+      {
+        "label": "操作系统",
+        "value": "Android智能系统，空中升级"
+      },
+      {
+        "label": "认证",
+        "value": "FDA严酷要求认证"
+      },
+      {
+        "label": "AI功能",
+        "value": "AI智能算法及应用"
+      },
+      {
+        "label": "条码功能",
+        "value": "集成2D/3D条码功能"
+      },
+      {
+        "label": "数据管理",
+        "value": "移动互联网系统（云端+客户端）"
+      },
+      {
+        "label": "运营商认证",
+        "value": "北美运营商网络认证"
+      }
+    ],
+    "specsEn": [
+      {
+        "label": "Network",
+        "value": "2G/3G/4G/5G Wireless"
+      },
+      {
+        "label": "Accuracy",
+        "value": "Ultra High Accuracy Glucose Testing"
+      },
+      {
+        "label": "OS",
+        "value": "Android Smart System, OTA Upgrade"
+      },
+      {
+        "label": "Certification",
+        "value": "FDA Rigorous Certification"
+      },
+      {
+        "label": "AI Features",
+        "value": "AI Smart Algorithms & Applications"
+      },
+      {
+        "label": "Barcode",
+        "value": "Integrated 2D/3D Barcode"
+      },
+      {
+        "label": "Data Management",
+        "value": "Mobile Internet System (Cloud + Client)"
+      },
+      {
+        "label": "Carrier Certification",
+        "value": "NA Carrier Network"
+      }
+    ],
+    "image": "/uploads/1779326204246-l8ncj4bwf3.jpg",
+    "cat": "medical"
+  },
+  {
+    "id": "9",
+    "nameZh": "5G IoT智能模块",
+    "nameEn": "5G IoT Smart Module",
+    "categoryZh": "IoT模块",
+    "categoryEn": "IoT Module",
+    "tags": [],
+    "briefZh": "Qualcomm SDX75 · 5G NSA/SA · M.2接口 · 全球认证",
+    "briefEn": "Qualcomm SDX75 · 5G NSA/SA · M.2 Interface · Global Certification",
+    "specsZh": [
+      {
+        "label": "芯片组",
+        "value": "Qualcomm SDX75"
+      },
+      {
+        "label": "标准支持",
+        "value": "3GPP R16, 5G NSA/SA"
+      },
+      {
+        "label": "5G频段",
+        "value": "FR1(Sub 6)和FR2(毫米波)"
+      },
+      {
+        "label": "LTE兼容",
+        "value": "向下兼容LTE CAT18"
+      },
+      {
+        "label": "定位技术",
+        "value": "GPS/北斗"
+      },
+      {
+        "label": "接口",
+        "value": "M.2接口，高速信号传输"
+      },
+      {
+        "label": "软件升级",
+        "value": "空中接口OTA升级"
+      },
+      {
+        "label": "认证",
+        "value": "全球运营商认证"
+      }
+    ],
+    "specsEn": [
+      {
+        "label": "Chipset",
+        "value": "Qualcomm SDX75"
+      },
+      {
+        "label": "Standard",
+        "value": "3GPP R16, 5G NSA/SA"
+      },
+      {
+        "label": "5G Bands",
+        "value": "FR1(Sub 6) & FR2(mmWave)"
+      },
+      {
+        "label": "LTE Compatible",
+        "value": "Backward Compatible LTE CAT18"
+      },
+      {
+        "label": "Positioning",
+        "value": "GPS/BeiDou"
+      },
+      {
+        "label": "Interface",
+        "value": "M.2 Interface, High-speed Signal"
+      },
+      {
+        "label": "Software Upgrade",
+        "value": "OTA Upgrade"
+      },
+      {
+        "label": "Certification",
+        "value": "Global Carrier Certification"
+      }
+    ],
+    "image": "/uploads/1779326171018-42hdeiaw04w.jpg",
+    "cat": "iot"
+  }
+]

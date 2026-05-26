@@ -1,0 +1,329 @@
+{
+  "nav": {
+    "about": "公司简介",
+    "products": "产品中心",
+    "tech": "核心技术",
+    "ai": "AI创新",
+    "partners": "合作伙伴",
+    "contact": "联系我们",
+    "admin": "管理后台"
+  },
+  "hero": {
+    "badge": "国家高新技术企业 · 广东省专精特新企业",
+    "title": "智能移动电子医疗专家",
+    "subtitle": "惠州市源医科技有限公司",
+    "description": "成立于2015年，专注于智能移动医疗电子、5G智能终端及IoT产品研发与生产。拥有20年北美运营商定制经验，通过FDA医疗认证及谷歌EDLA企业认证，服务全球高端医疗市场。",
+    "exploreProducts": "探索产品",
+    "learnMore": "了解更多",
+    "stats": {
+      "experience": "年行业经验",
+      "fdaCert": "医疗认证",
+      "publicClients": "上市公司客户",
+      "fiveG": "智能终端"
+    }
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "关于惠州源医",
+    "subtitle": "市场导向，质量为本。提供令客户满意的产品和服务，不断追求质量进步和超越。",
+    "mainTitle": "专注智能移动医疗与通信终端",
+    "p1": "惠州市源医科技有限公司坐落于广东惠州国家级高新技术产业开发区，成立于2015年9月，注册资金300万元。",
+    "p2": "公司为国家高新技术企业、广东省专精特新企业和双软企业。专注于智能移动医疗电子、智能移动通信终端、IoT等产品研发和生产。为企业客户提供满足谷歌EDLA认证的智能手机、平板、物联网终端、数据终端以及通过FDA认证的智能医疗终端产品。",
+    "p3": "核心成员拥有多年的欧美市场移动通信终端设计和集成经验，以及多年的欧美市场医疗电子仪器设计和集成经验。与国内外知名生物医疗电子领域的单位保持长期合作或技术交流。",
+    "highlights": {
+      "global": {
+        "title": "全球布局",
+        "desc": "惠州·成都·江西·香港·美国多地办公机构"
+      },
+      "qualification": {
+        "title": "企业资质",
+        "desc": "国家高新技术企业、双软企业、广东省专精特新企业"
+      },
+      "tech": {
+        "title": "技术授权",
+        "desc": "Qualcomm、Samsung 4G/5G/IoT平台开发授权"
+      },
+      "market": {
+        "title": "市场覆盖",
+        "desc": "80%客户为北美及欧洲上市公司企业客户"
+      }
+    },
+    "stats": {
+      "founded": "成立年份",
+      "capital": "注册资本",
+      "accumulation": "技术积累",
+      "fda": "医疗认证"
+    }
+  },
+  "products": {
+    "badge": "Products",
+    "title": "产品中心",
+    "subtitle": "9款核心产品，覆盖移动通信终端、5G物联网模块、医疗智能终端三大领域",
+    "filters": {
+      "all": "全部产品",
+      "comm": "通信终端",
+      "medical": "医疗终端",
+      "iot": "IoT模块"
+    },
+    "viewDetails": "查看详情",
+    "categories": {
+      "comm": "通信终端",
+      "medical": "医疗终端",
+      "iot": "IoT模块"
+    }
+  },
+  "tech": {
+    "badge": "Technology",
+    "title": "核心技术",
+    "subtitle": "20年技术积累，宽带移动通信技术+互联网+AI技术深度融合",
+    "intro": "致力于满足北美市场标准的企业级智能医疗电子/移动通信终端方案提供商，依托4G/5G/6G宽带移动通信技术+互联网+AI技术深度融合实现产品跨维度赋能，为企业客户提供高标准高质量的智能手机、平板、物联网终端、数据终端、智能医疗终端产品。",
+    "products": "产品支持移动互联网系统部署(移动客户端+服务器服务端)和应用，为客户实现产品跨维度拓展。",
+    "highlights": {
+      "team": "拥有超过20年的移动终端平台持续精耕的核心技术团队",
+      "operator": "专注于北美运营商(Verizon/T-Mobile/AT&T)高门槛专属定制的产品管理和开发体系和供应体系",
+      "chip": "拥有国际主流的移动通信终端芯片平台的技术开发授权和支持",
+      "edla": "通过谷歌EDLA认证，为企业客户提供智能手机、平板、物联网终端、数据终端、智能医疗终端产品"
+    },
+    "cards": {
+      "communication": {
+        "title": "通信技术",
+        "items": ["4G/5G/5G-A/6G预研", "WiFi 6e/WiFi 7/MU-MIMO", "始于2002年Qualcomm平台经验", "始于2005年北美运营商定制经验"]
+      },
+      "sensor": {
+        "title": "传感技术",
+        "items": ["Sensor Hub规范", "MEMS传感器集成", "体温/心率/血氧/心电/血压", "专利摄像头滴速检测"]
+      },
+      "ai": {
+        "title": "AI算力",
+        "items": ["NPU/CPU/GPU异构算力", "AI大模型端侧部署", "边缘计算能力", "Google Gemini全面对接"]
+      },
+      "cloud": {
+        "title": "云与大数据",
+        "items": ["云计算平台部署", "大数据分析引擎", "移动互联网系统", "云端+客户端一体化"]
+      },
+      "certification": {
+        "title": "认证与安全",
+        "items": ["谷歌EDLA认证", "FDA医疗器械认证", "国家级高新技术企业", "广东省级专精特新企业"]
+      },
+      "manufacturing": {
+        "title": "全球制造",
+        "items": ["中国大陆自有工厂（江西）", "越南制造合作工厂", "菲律宾制造合作工厂", "日本/美国制造合作"]
+      }
+    }
+  },
+  "ai": {
+    "badge": "AI Innovation",
+    "title": "AI创新技术",
+    "subtitle": "产品全面对接适配谷歌Google Gemini实现AI多样赋能",
+    "intro": "依托平台NPU/CPU/GPU算力，支持Gemini多种模型构建AI应用和智能体。实现多模态而构建，具备跨文本、图像、音频、视频和代码无缝推理的超强能力。从小模型Nano到超大模型Ultra都已实现学习和部署。",
+    "models": {
+      "nano": {
+        "title": "Gemini Nano",
+        "desc": "端侧高效推理，低功耗AI体验，适合移动终端与IoT设备"
+      },
+      "flash": {
+        "title": "Gemini Flash",
+        "desc": "极速响应，轻量级任务处理，适合实时交互与快速推理场景"
+      },
+      "pro": {
+        "title": "Gemini Pro",
+        "desc": "均衡性能与效率，适合企业级应用与复杂AI任务处理"
+      },
+      "ultra": {
+        "title": "Gemini Ultra",
+        "desc": "最强算力，顶级多模态能力，适合高精度医疗AI与复杂分析"
+      }
+    }
+  },
+  "partners": {
+    "badge": "Partners",
+    "title": "合作伙伴",
+    "subtitle": "全球顶级技术平台与行业领导者"
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "联系我们",
+    "subtitle": "期待与您合作，共创智能医疗未来",
+    "address": "总部地址",
+    "addressValue": "惠州市仲恺高新区滨河东路15号展创大厦23楼",
+    "offices": "全球办公",
+    "officesValue": "惠州 · 成都 · 江西 · 香港 · 美国",
+    "email": "电子邮箱",
+    "emailValue": "contact@bluevitatech.com",
+    "website": "官方网站",
+    "websiteValue": "www.bluevitatech.com"
+  },
+  "footer": {
+    "copyright": "惠州市源医科技有限公司 BluevitaTech. All Rights Reserved."
+  },
+  "admin": {
+    "title": "管理后台",
+    "content": {
+      "title": "内容管理",
+      "save": "保存",
+      "saving": "保存中...",
+      "saveSuccess": "保存成功！",
+      "saveError": "保存失败，请重试",
+      "refresh": "刷新",
+      "hero": {
+        "badge": "徽章",
+        "badgeEn": "徽章(英文)",
+        "title": "标题",
+        "titleEn": "标题(英文)",
+        "subtitle": "副标题",
+        "subtitleEn": "副标题(英文)",
+        "description": "描述",
+        "descriptionEn": "描述(英文)",
+        "exploreProducts": "探索产品按钮",
+        "exploreProductsEn": "探索产品按钮(英文)",
+        "learnMore": "了解更多按钮",
+        "learnMoreEn": "了解更多按钮(英文)"
+      },
+      "about": {
+        "title": "标题",
+        "titleEn": "标题(英文)",
+        "subtitle": "副标题",
+        "subtitleEn": "副标题(英文)",
+        "mainTitle": "主标题",
+        "mainTitleEn": "主标题(英文)",
+        "p1": "第一段",
+        "p1En": "第一段(英文)",
+        "p2": "第二段",
+        "p2En": "第二段(英文)",
+        "p3": "第三段",
+        "p3En": "第三段(英文)",
+        "highlights": "亮点卡片",
+        "highlightTitle": "标题",
+        "highlightTitleEn": "标题(英文)",
+        "highlightDesc": "描述",
+        "highlightDescEn": "描述(英文)"
+      },
+      "products": {
+        "title": "标题",
+        "titleEn": "标题(英文)",
+        "subtitle": "副标题",
+        "subtitleEn": "副标题(英文)",
+        "viewDetails": "查看详情按钮",
+        "viewDetailsEn": "查看详情按钮(英文)",
+        "filters": "筛选标签",
+        "filter": "筛选项"
+      },
+      "tech": {
+        "title": "标题",
+        "titleEn": "标题(英文)",
+        "subtitle": "副标题",
+        "subtitleEn": "副标题(英文)",
+        "intro": "介绍",
+        "introEn": "介绍(英文)",
+        "products": "产品描述",
+        "productsEn": "产品描述(英文)",
+        "highlights": "亮点",
+        "highlight": "亮点项",
+        "cards": "技术卡片",
+        "cardTitle": "卡片标题",
+        "cardTitleEn": "卡片标题(英文)",
+        "cardItem": "卡片项",
+        "cardItemEn": "卡片项(英文)"
+      },
+      "ai": {
+        "title": "标题",
+        "titleEn": "标题(英文)",
+        "subtitle": "副标题",
+        "subtitleEn": "副标题(英文)",
+        "intro": "介绍",
+        "introEn": "介绍(英文)",
+        "models": "模型",
+        "modelTitle": "模型名称",
+        "modelDesc": "模型描述",
+        "modelDescEn": "模型描述(英文)"
+      },
+      "partners": {
+        "title": "标题",
+        "titleEn": "标题(英文)",
+        "subtitle": "副标题",
+        "subtitleEn": "副标题(英文)"
+      },
+      "contact": {
+        "title": "标题",
+        "titleEn": "标题(英文)",
+        "subtitle": "副标题",
+        "subtitleEn": "副标题(英文)",
+        "address": "地址标签",
+        "addressEn": "地址标签(英文)",
+        "addressValue": "地址值",
+        "addressValueEn": "地址值(英文)",
+        "offices": "全球办公标签",
+        "officesEn": "全球办公标签(英文)",
+        "officesValue": "全球办公值",
+        "officesValueEn": "全球办公值(英文)",
+        "email": "邮箱标签",
+        "emailEn": "邮箱标签(英文)",
+        "emailValue": "邮箱值",
+        "website": "网站标签",
+        "websiteEn": "网站标签(英文)",
+        "websiteValue": "网站值"
+      },
+      "footer": {
+        "copyright": "版权信息",
+        "copyrightEn": "版权信息(英文)"
+      },
+      "nav": {
+        "item": "导航项"
+      }
+    },
+    "products": {
+      "title": "产品管理",
+      "add": "新增产品",
+      "edit": "编辑产品",
+      "delete": "删除产品",
+      "confirmDelete": "确定要删除此产品吗？",
+      "nameZh": "产品名称（中文）",
+      "nameEn": "产品名称（英文）",
+      "categoryZh": "产品分类（中文）",
+      "categoryEn": "产品分类（英文）",
+      "briefZh": "简介（中文）",
+      "briefEn": "简介（英文）",
+      "image": "产品图片",
+      "tags": "标签",
+      "specsZh": "规格参数（中文）",
+      "specsEn": "规格参数（英文）",
+      "specLabel": "参数名称",
+      "specValue": "参数值",
+      "addSpec": "添加参数",
+      "save": "保存",
+      "cancel": "取消"
+    },
+    "partners": {
+      "title": "合作伙伴管理",
+      "add": "新增合作伙伴",
+      "edit": "编辑合作伙伴",
+      "delete": "删除合作伙伴",
+      "confirmDelete": "确定要删除此合作伙伴吗？",
+      "name": "名称",
+      "typeZh": "类型（中文）",
+      "typeEn": "类型（英文）",
+      "icon": "图标",
+      "image": "Logo图片",
+      "link": "链接地址",
+      "save": "保存",
+      "cancel": "取消"
+    },
+    "upload": {
+      "title": "上传图片",
+      "dragDrop": "拖拽图片到此处或点击上传",
+      "supported": "支持 JPG、PNG 格式"
+    },
+    "actions": {
+      "edit": "编辑",
+      "delete": "删除"
+    },
+    "backHome": "返回首页"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "success": "操作成功",
+    "confirm": "确认",
+    "cancel": "取消"
+  }
+}

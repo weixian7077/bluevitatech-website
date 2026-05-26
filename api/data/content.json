@@ -1,0 +1,322 @@
+{
+  "hero": {
+    "badge": "国家高新技术企业 · 广东省专精特新企业",
+    "badgeEn": "National High-tech Enterprise · Guangdong Specialized and Innovative Enterprise",
+    "badgeIcon": "🏆",
+    "title": "智能移动电子医疗专家",
+    "titleEn": "Smart Mobility Medical Electronic Expert",
+    "subtitle": "惠州市源医科技有限公司",
+    "subtitleEn": "BluevitaTech Co., Ltd.",
+    "description": "成立于2015年，专注于智能移动医疗电子、5G智能终端及IoT产品研发与生产。拥有20年北美运营商定制经验，通过FDA医疗认证及谷歌EDLA企业认证，服务全球高端医疗市场。",
+    "descriptionEn": "Founded in 2015, specializing in R&D and production of smart mobile medical electronics, 5G smart terminals, and IoT products. With 20 years of North American carrier customization experience, FDA medical certification, and Google EDLA enterprise certification, serving the global high-end medical market.",
+    "exploreProducts": "探索产品",
+    "exploreProductsEn": "Explore Products",
+    "learnMore": "了解更多",
+    "learnMoreEn": "Learn More",
+    "background": {
+      "primaryColor": "#06b6d4",
+      "secondaryColor": "#22d3ee",
+      "gradientStart": "#ecfeff",
+      "gradientEnd": "#ffffff",
+      "backgroundImage": "",
+      "overlayOpacity": 0.3
+    },
+    "stats": {
+      "experience": "年行业经验",
+      "experienceEn": "Years Experience",
+      "fdaCert": "医疗认证",
+      "fdaCertEn": "FDA Certified",
+      "publicClients": "上市公司客户",
+      "publicClientsEn": "Public Company Clients",
+      "fiveG": "智能终端",
+      "fiveGEn": "5G Smart Terminal"
+    }
+  },
+  "about": {
+    "title": "关于惠州源医",
+    "titleEn": "About BluevitaTech",
+    "subtitle": "市场导向，质量为本。提供令客户满意的产品和服务，不断追求质量进步和超越。",
+    "subtitleEn": "Market-oriented, quality-focused. Providing satisfactory products and services, continuously pursuing quality improvement and excellence.",
+    "mainTitle": "专注智能移动医疗与通信终端",
+    "mainTitleEn": "Focused on Smart Mobile Healthcare & Communication Terminals",
+    "p1": "惠州市源医科技有限公司坐落于广东惠州国家级高新技术产业开发区，成立于2015年9月。",
+    "p1En": "Huizhou BluevitaTech Co., Ltd. is located in the National High-tech Industrial Development Zone of Huizhou, Guangdong. Founded in September 2015 with a registered.",
+    "p2": "公司为国家高新技术企业、广东省专精特新企业和双软企业。专注于智能移动医疗电子、智能移动通信终端、IoT等产品研发和生产。为企业客户提供满足谷歌EDLA认证的智能手机、平板、物联网终端、数据终端以及通过FDA认证的智能医疗终端产品。",
+    "p2En": "The company is a National High-tech Enterprise, Guangdong Specialized and Innovative Enterprise, and Double-Soft Enterprise. Specializing in R&D and production of smart mobile medical electronics, smart mobile communication terminals, and IoT products. Providing enterprise customers with smartphones, tablets, IoT terminals, and data terminals that meet Google EDLA certification, as well as smart medical terminal products with FDA certification.",
+    "p3": "核心成员拥有多年的欧美市场移动通信终端设计和集成经验，以及多年的欧美市场医疗电子仪器设计和集成经验。与国内外知名生物医疗电子领域的单位保持长期合作或技术交流。",
+    "p3En": "Core team members have years of experience in mobile communication terminal design and integration for European and American markets, as well as medical electronic instrument design and integration. Maintaining long-term cooperation and technical exchanges with renowned units in the biomedical electronics field both domestically and internationally.",
+    "highlights": {
+      "global": {
+        "icon": "🌍",
+        "title": "全球布局",
+        "titleEn": "Global Presence",
+        "desc": "惠州·成都·江西·香港·美国多地办公机构",
+        "descEn": "Offices in Huizhou, Chengdu, Jiangxi, Hong Kong, and USA"
+      },
+      "market": {
+        "icon": "📊",
+        "title": "市场覆盖",
+        "titleEn": "Market Coverage",
+        "desc": "80%客户为北美及欧洲上市公司企业客户",
+        "descEn": "80% clients are public companies in North America and Europe"
+      }
+    },
+    "stats": {
+      "founded": "成立年份",
+      "foundedEn": "Founded",
+      "foundedValue": "2015",
+      "foundedValueEn": "2015",
+      "capital": "技术积累",
+      "capitalEn": "Technical Accumulation",
+      "capitalValue": "20+年",
+      "capitalValueEn": "20+ Years",
+      "accumulation": "谷歌企业认证",
+      "accumulationEn": "Google EDLA",
+      "accumulationValue": "EDLA",
+      "accumulationValueEn": "EDLA",
+      "fda": "医疗认证",
+      "fdaEn": "FDA Certified",
+      "fdaValue": "FDA",
+      "fdaValueEn": "FDA"
+    },
+    "highlightsBottom": {},
+    "background": {
+      "primaryColor": "#06b6d4",
+      "secondaryColor": "#22d3ee",
+      "gradientStart": "#ffffff",
+      "gradientEnd": "#f0fdfd",
+      "backgroundImage": "",
+      "overlayOpacity": 0.2
+    }
+  },
+  "tech": {
+    "title": "核心技术",
+    "titleEn": "Core Technology",
+    "subtitle": "20年技术积累，宽带移动通信技术+互联网+AI技术深度融合",
+    "subtitleEn": "20 years of technology accumulation, deep integration of broadband mobile communication + internet + AI technology",
+    "intro": "致力于满足北美市场标准的企业级智能医疗电子/移动通信终端方案提供商，依托4G/5G/6G宽带移动通信技术+互联网+AI技术深度融合实现产品跨维度赋能，为企业客户提供高标准高质量的智能手机、平板、物联网终端、数据终端、智能医疗终端产品。",
+    "introEn": "Enterprise-level smart medical electronics/mobile communication terminal solution provider dedicated to meeting North American market standards. Leveraging deep integration of 4G/5G/6G broadband mobile communication technology + internet + AI technology to achieve cross-dimensional empowerment, providing enterprise customers with high-standard, high-quality smartphones, tablets, IoT terminals, data terminals, and smart medical terminal products.",
+    "products": "产品支持移动互联网系统部署(移动客户端+服务器服务端)和应用，为客户实现产品跨维度拓展。",
+    "productsEn": "Products support mobile internet system deployment (mobile client + server) and applications, enabling customers to achieve cross-dimensional product expansion.",
+    "highlights": {
+      "team": "拥有超过20年的移动终端平台持续精耕的核心技术团队",
+      "teamEn": "Core technology team with over 20 years of continuous refinement in mobile terminal platforms",
+      "operator": "专注于北美运营商(Verizon/T-Mobile/AT&T)高门槛专属定制的产品管理和开发体系和供应体系",
+      "operatorEn": "Focused on high-threshold exclusive customization for North American carriers (Verizon/T-Mobile/AT&T) with dedicated product management, development, and supply systems",
+      "chip": "拥有国际主流的移动通信终端芯片平台的技术开发授权和支持",
+      "chipEn": "Possesses technology development authorization and support from international mainstream mobile communication terminal chip platforms",
+      "edla": "通过谷歌EDLA认证，为企业客户提供智能手机、平板、物联网终端、数据终端、智能医疗终端产品",
+      "edlaEn": "Google EDLA certified, providing smartphones, tablets, IoT terminals, data terminals, and smart medical terminal products for enterprise customers"
+    },
+    "cards": {
+      "communication": {
+        "icon": "📡",
+        "title": "通信技术",
+        "titleEn": "Communication Tech",
+        "items": [
+          "4G/5G/5G-A/6G预研",
+          "WiFi 6e/WiFi 7/MU-MIMO",
+          "始于2002年Qualcomm平台经验",
+          "始于2005年北美运营商定制经验"
+        ],
+        "itemsEn": [
+          "4G/5G/5G-A/6G R&D",
+          "WiFi 6e/WiFi 7/MU-MIMO",
+          "Qualcomm platform since 2002",
+          "NA carrier customization since 2005"
+        ]
+      },
+      "sensor": {
+        "icon": "🔬",
+        "title": "传感技术",
+        "titleEn": "Sensor Tech",
+        "items": [
+          "Sensor Hub规范",
+          "MEMS传感器集成",
+          "体温/心率/血氧/心电/血压",
+          "专利摄像头滴速检测"
+        ],
+        "itemsEn": [
+          "Sensor Hub specification",
+          "MEMS sensor integration",
+          "Temperature/HR/SpO2/ECG/BP",
+          "Patented camera drip detection"
+        ]
+      },
+      "ai": {
+        "icon": "🧠",
+        "title": "AI算力",
+        "titleEn": "AI Computing",
+        "items": [
+          "NPU/CPU/GPU异构算力",
+          "AI大模型端侧部署",
+          "边缘计算能力",
+          "Google Gemini全面对接"
+        ],
+        "itemsEn": [
+          "NPU/CPU/GPU heterogeneous computing",
+          "AI model edge deployment",
+          "Edge computing capability",
+          "Google Gemini integration"
+        ]
+      },
+      "cloud": {
+        "icon": "☁️",
+        "title": "云与大数据",
+        "titleEn": "Cloud & Big Data",
+        "items": [
+          "云计算平台部署",
+          "大数据分析引擎",
+          "移动互联网系统",
+          "云端+客户端一体化"
+        ],
+        "itemsEn": [
+          "Cloud platform deployment",
+          "Big data analytics engine",
+          "Mobile internet system",
+          "Cloud + client integration"
+        ]
+      },
+      "certification": {
+        "icon": "✅",
+        "title": "认证与安全",
+        "titleEn": "Certification & Security",
+        "items": [
+          "谷歌EDLA认证",
+          "FDA医疗器械认证",
+          "国家级高新技术企业",
+          "广东省级专精特新企业"
+        ],
+        "itemsEn": [
+          "Google EDLA certification",
+          "FDA medical device certification",
+          "National High-tech Enterprise",
+          "Guangdong Specialized Enterprise"
+        ]
+      },
+      "manufacturing": {
+        "icon": "🏭",
+        "title": "全球制造",
+        "titleEn": "Global Manufacturing",
+        "items": [
+          "中国大陆自有工厂（江西）",
+          "越南制造合作工厂",
+          "菲律宾制造合作工厂",
+          "日本/美国制造合作"
+        ],
+        "itemsEn": [
+          "Own factory in China (Jiangxi)",
+          "Vietnam manufacturing partner",
+          "Philippines manufacturing partner",
+          "Japan/USA manufacturing cooperation"
+        ]
+      }
+    },
+    "background": {
+      "primaryColor": "#06b6d4",
+      "secondaryColor": "#22d3ee",
+      "gradientStart": "#f0fdfd",
+      "gradientEnd": "#ffffff",
+      "backgroundImage": "",
+      "overlayOpacity": 0.2
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "titleEn": "Contact Us",
+    "subtitle": "期待与您合作，共创智能医疗未来",
+    "subtitleEn": "Looking forward to working with you to create the future of smart healthcare",
+    "address": "总部地址",
+    "addressEn": "Headquarters",
+    "addressValue": "惠州市仲恺高新区滨河东路15号展创大厦23楼",
+    "addressValueEn": "23F, Zhanchuang Building, No.15 Binhe East Road, Zhongkai High-tech Zone, Huizhou",
+    "offices": "全球办公",
+    "officesEn": "Global Offices",
+    "officesValue": "惠州 · 成都 · 江西 · 香港 · 美国",
+    "officesValueEn": "Huizhou · Chengdu · Jiangxi · Hong Kong · USA",
+    "email": "电子邮箱",
+    "emailEn": "Email",
+    "emailValue": "contact@bluevitatech.com",
+    "website": "官方网站",
+    "websiteEn": "Website",
+    "websiteValue": "www.bluevitatech.com",
+    "background": {
+      "primaryColor": "#06b6d4",
+      "secondaryColor": "#22d3ee",
+      "gradientStart": "#ecfeff",
+      "gradientEnd": "#ffffff",
+      "backgroundImage": "",
+      "overlayOpacity": 0.3
+    }
+  },
+  "footer": {
+    "copyright": "惠州市源医科技有限公司 BluevitaTech. All Rights Reserved.",
+    "copyrightEn": "Huizhou BluevitaTech Co., Ltd. All Rights Reserved.",
+    "background": {
+      "primaryColor": "#0f172a",
+      "secondaryColor": "#1e293b",
+      "gradientStart": "#0f172a",
+      "gradientEnd": "#1e293b",
+      "backgroundImage": "",
+      "overlayOpacity": 0
+    }
+  },
+  "nav": {
+    "about": "公司简介",
+    "aboutEn": "About Us",
+    "products": "产品中心",
+    "productsEn": "Products",
+    "tech": "核心技术",
+    "techEn": "Technology",
+    "ai": "AI创新",
+    "aiEn": "AI Innovation",
+    "partners": "合作伙伴",
+    "partnersEn": "Partners",
+    "contact": "联系我们",
+    "contactEn": "Contact",
+    "admin": "管理后台",
+    "adminEn": "Admin",
+    "logoText": "源医科技",
+    "logoTextEn": "BluevitaTech"
+  },
+  "products": {
+    "title": "产品中心",
+    "titleEn": "Product Center",
+    "subtitle": "核心产品，覆盖移动通信终端、5G物联网模块、医疗智能终端三大领域",
+    "subtitleEn": "Core products covering mobile communication terminals, 5G IoT modules, and medical smart terminals",
+    "filters": {
+      "all": "全部产品",
+      "allEn": "All Products",
+      "comm": "通信终端",
+      "commEn": "Communication",
+      "medical": "医疗终端",
+      "medicalEn": "Medical",
+      "iot": "IoT模块",
+      "iotEn": "IoT Module"
+    },
+    "viewDetails": "查看详情",
+    "viewDetailsEn": "View Details",
+    "background": {
+      "primaryColor": "#06b6d4",
+      "secondaryColor": "#22d3ee",
+      "gradientStart": "#ffffff",
+      "gradientEnd": "#f0fdfd",
+      "backgroundImage": "",
+      "overlayOpacity": 0.1
+    }
+  },
+  "partners": {
+    "title": "合作伙伴",
+    "titleEn": "Our Partners",
+    "subtitle": "全球顶级技术平台与行业领导者",
+    "subtitleEn": "Global top technology platforms and industry leaders",
+    "background": {
+      "primaryColor": "#06b6d4",
+      "secondaryColor": "#22d3ee",
+      "gradientStart": "#f0fdfd",
+      "gradientEnd": "#ffffff",
+      "backgroundImage": "",
+      "overlayOpacity": 0.1
+    }
+  }
+}

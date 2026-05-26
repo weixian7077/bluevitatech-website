@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Qualcomm",
+    "typeZh": "",
+    "typeEn": "4G/5G Communication & AI Computing",
+    "icon": "🔷",
+    "image": "/images/qualcomm.jpg",
+    "link": "https://www.qualcomm.com"
+  },
+  {
+    "id": "2",
+    "name": "Samsung LSI",
+    "typeZh": "",
+    "typeEn": "4G/5G Communication & AI Computing",
+    "icon": "⭐",
+    "image": "/images/samsung.jpg",
+    "link": "https://www.samsung.com"
+  },
+  {
+    "id": "3",
+    "name": "Google",
+    "typeZh": "",
+    "typeEn": "OS & AI Models",
+    "icon": "🔍",
+    "image": "/images/google.jpg",
+    "link": "https://www.google.com"
+  },
+  {
+    "id": "4",
+    "name": "GCT",
+    "typeZh": "",
+    "typeEn": "4G/5G Communication Platform",
+    "icon": "📶",
+    "image": "/images/gct.jpg",
+    "link": ""
+  },
+  {
+    "id": "5",
+    "name": "Philips Health",
+    "typeZh": "",
+    "typeEn": "Healthcare Partnership",
+    "icon": "💓",
+    "image": "/images/philips.jpg",
+    "link": "https://www.philips.com"
+  },
+  {
+    "id": "6",
+    "name": "BioTelemetry",
+    "typeZh": "",
+    "typeEn": "Cardiac Monitoring Services",
+    "icon": "❤️",
+    "image": "/images/biotelemetry.jpg",
+    "link": ""
+  },
+  {
+    "id": "7",
+    "name": "Livongo Health",
+    "typeZh": "",
+    "typeEn": "Chronic Disease Management",
+    "icon": "🏥",
+    "image": "/images/livongo.jpg",
+    "link": ""
+  },
+  {
+    "id": "8",
+    "name": "Synnex Corp",
+    "typeZh": "",
+    "typeEn": "IT Distribution Services",
+    "icon": "📦",
+    "image": "/images/synnex.jpg",
+    "link": ""
+  },
+  {
+    "id": "9",
+    "name": "Pilltracker",
+    "typeZh": "",
+    "typeEn": "Medication Management",
+    "icon": "💊",
+    "image": "/images/pilltracker.jpg",
+    "link": ""
+  },
+  {
+    "id": "10",
+    "name": "DEKA",
+    "typeZh": "",
+    "typeEn": "Medical Device R&D",
+    "icon": "🔬",
+    "image": "/images/deka.jpg",
+    "link": ""
+  }
+]
