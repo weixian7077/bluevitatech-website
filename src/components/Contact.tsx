@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { MapPin, Building2, Mail, Globe, Phone } from 'lucide-react';
-import { useContent } from '@/hooks/useContent';
+import { useContent } from '../hooks/useContent';
 
 export function Contact() {
   const { t } = useTranslation();

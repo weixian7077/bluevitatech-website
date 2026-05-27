@@ -1,7 +1,7 @@
 import { useTranslation } from 'react-i18next';
-import { Product } from '@/types';
-import { useStore } from '@/store/useStore';
-import { useContent } from '@/hooks/useContent';
+import { Product } from '../types';
+import { useStore } from '../store/useStore';
+import { useContent } from '../hooks/useContent';
 import { ArrowRight } from 'lucide-react';
 import { clsx } from 'clsx';
 import { useMemo } from 'react';
@@ -64,6 +64,8 @@ export function ProductCard({ product }: ProductCardProps) {
         <img
           src={imageUrl}
           alt={name}
+          loading="lazy"
+          decoding="async"
           className="w-full h-full object-contain p-6 group-hover:scale-110 group-hover:rotate-1 transition-all duration-700"
           onError={(e) => {
             const target = e.target as HTMLImageElement;

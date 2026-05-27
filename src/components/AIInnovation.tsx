@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { Zap, Flame, Sparkles, Rocket } from 'lucide-react';
-import { useContent } from '@/hooks/useContent';
+import { useContent } from '../hooks/useContent';
 
 const aiModels = [
   { key: 'nano', icon: Sparkles },

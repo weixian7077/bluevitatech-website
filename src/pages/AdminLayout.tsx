@@ -1,7 +1,7 @@
 import { Outlet, Link, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { Package, Users, Settings, ArrowLeft, Globe } from 'lucide-react';
-import { useStore } from '@/store/useStore';
+import { useStore } from '../store/useStore';
 import { clsx } from 'clsx';
 
 const navItems = [

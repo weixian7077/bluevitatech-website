@@ -1,8 +1,8 @@
 import { useTranslation } from 'react-i18next';
 import { X } from 'lucide-react';
-import { useStore } from '@/store/useStore';
-import { useEffect, useMemo } from 'react';
-import { Product } from '@/types';
+import { useStore } from '../store/useStore';
+import { useEffect } from 'react';
+import { Product } from '../types';
 
 function generateProductImage(product: Product, language: string): string {
   const name = language === 'zh' ? product.nameZh : product.nameEn;
@@ -40,19 +40,24 @@ export function ProductModal() {
     };
   }, [isProductModalOpen]);
 
-  if (!selectedProduct || !isProductModalOpen) {
-    return null;
-  }
+  useEffect(() => {
+    const handleEscape = (e: KeyboardEvent) => {
+      if (e.key === 'Escape' && isProductModalOpen) {
+        setProductModalOpen(false);
+      }
+    };
+    window.addEventListener('keydown', handleEscape);
+    return () => window.removeEventListener('keydown', handleEscape);
+  }, [isProductModalOpen, setProductModalOpen]);
 
-  const name = language === 'zh' ? selectedProduct.nameZh : selectedProduct.nameEn;
-  const specs = language === 'zh' ? selectedProduct.specsZh : selectedProduct.specsEn;
+  const name = selectedProduct && (language === 'zh' ? selectedProduct.nameZh : selectedProduct.nameEn);
+  const specs = selectedProduct && (language === 'zh' ? selectedProduct.specsZh : selectedProduct.specsEn);
   
-  const imageUrl = useMemo(() => {
-    if (selectedProduct.image) {
-      return selectedProduct.image;
-    }
-    return generateProductImage(selectedProduct, language);
-  }, [selectedProduct, language]);
+  const imageUrl = selectedProduct ? (
+    selectedProduct.image ? 
+      selectedProduct.image : 
+      generateProductImage(selectedProduct, language)
+  ) : '';
 
   const handleClose = () => {
     setProductModalOpen(false);
@@ -64,9 +69,13 @@ export function ProductModal() {
     }
   };
 
+  if (!selectedProduct || !isProductModalOpen) {
+    return null;
+  }
+
   return (
     <div
-      className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm animate-fade-in"
+      className="fixed inset-0 z-[9999] flex items-center justify-center p-4 bg-slate-900/50 backdrop-blur-sm animate-fade-in"
       onClick={handleOverlayClick}
     >
       <div className="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden shadow-2xl animate-scale-in flex flex-col">

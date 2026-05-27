@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { ProductCard } from './ProductCard';
-import { Product } from '@/types';
-import { useStore } from '@/store/useStore';
-import { useContent } from '@/hooks/useContent';
+import { Product } from '../types';
+import { useStore } from '../store/useStore';
+import { useContent } from '../hooks/useContent';
 import { Package } from 'lucide-react';
 
 const API_BASE = import.meta.env.VITE_API_BASE || '';
@@ -53,14 +53,27 @@ export function Products() {
                 key={i} 
                 className="bg-white rounded-3xl overflow-hidden shadow-sm border border-slate-100 animate-pulse"
               >
-                <div className="h-64 bg-gradient-to-br from-slate-100 via-primary-50/50 to-accent-50/50 relative">
-                  <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-accent/5 animate-pulse" />
+                <div className="h-72 bg-gradient-to-br from-slate-200 via-primary-50/30 to-accent-50/30 relative overflow-hidden">
+                  <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/40 to-transparent animate-shimmer" 
+                       style={{ transform: 'skewX(-20deg)' }} />
                 </div>
-                <div className="p-6 space-y-3">
-                  <div className="h-4 bg-gradient-to-r from-primary-100 to-primary-200 rounded-full w-1/3" />
-                  <div className="h-5 bg-gradient-to-r from-slate-200 to-slate-300 rounded-lg w-3/4" />
-                  <div className="h-3 bg-gradient-to-r from-slate-100 to-slate-200 rounded-lg w-full" />
-                  <div className="h-3 bg-gradient-to-r from-slate-100 to-slate-200 rounded-lg w-2/3" />
+                <div className="p-7 space-y-4">
+                  <div className="flex items-center gap-2">
+                    <div className="w-1.5 h-1.5 rounded-full bg-slate-200" />
+                    <div className="h-3 bg-slate-200 rounded w-1/4" />
+                  </div>
+                  <div className="space-y-2">
+                    <div className="h-5 bg-slate-200 rounded-lg w-3/4" />
+                    <div className="h-4 bg-slate-200 rounded w-1/2" />
+                  </div>
+                  <div className="space-y-1.5">
+                    <div className="h-3 bg-slate-100 rounded w-full" />
+                    <div className="h-3 bg-slate-100 rounded w-2/3" />
+                  </div>
+                  <div className="pt-4 border-t border-slate-100 flex items-center justify-between">
+                    <div className="h-4 bg-slate-100 rounded w-24" />
+                    <div className="w-8 h-8 bg-slate-100 rounded-full" />
+                  </div>
                 </div>
               </div>
             ))}

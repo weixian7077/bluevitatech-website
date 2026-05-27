@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Plus, Pencil, Trash2, X, Upload } from 'lucide-react';
-import { Product, Spec } from '@/types';
+import { Product, Spec } from '../types';
 
 const API_BASE = import.meta.env.VITE_API_BASE || '';
 

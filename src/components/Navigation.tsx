@@ -2,9 +2,9 @@ import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { Menu, X, Globe } from 'lucide-react';
-import { useStore } from '@/store/useStore';
+import { useStore } from '../store/useStore';
 import { clsx } from 'clsx';
-import { useContent } from '@/hooks/useContent';
+import { useContent } from '../hooks/useContent';
 
 const API_BASE = import.meta.env.VITE_API_BASE || '';
 
@@ -23,6 +23,10 @@ export function Navigation() {
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, [location.pathname]);
 
   const toggleLanguage = () => {
     const newLang = language === 'zh' ? 'en' : 'zh';

@@ -239,6 +239,10 @@
     box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.15);
   }
 
+  .animate-shimmer {
+    animation: shimmer 1.5s ease-in-out infinite;
+  }
+
   .gradient-border {
     position: relative;
   }
@@ -326,5 +330,14 @@
   }
   50% {
     background-position: 100% 50%;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%) skewX(-20deg);
+  }
+  100% {
+    transform: translateX(200%) skewX(-20deg);
   }
 }

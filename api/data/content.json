@@ -240,6 +240,9 @@
     "website": "官方网站",
     "websiteEn": "Website",
     "websiteValue": "www.bluevitatech.com",
+    "phone": "联系电话",
+    "phoneEn": "Phone",
+    "phoneValue": "+86 0752-7380769",
     "background": {
       "primaryColor": "#06b6d4",
       "secondaryColor": "#22d3ee",

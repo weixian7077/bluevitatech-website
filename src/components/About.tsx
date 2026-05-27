@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { Globe, Award, Wrench, TrendingUp } from 'lucide-react';
-import { useContent } from '@/hooks/useContent';
+import { useContent } from '../hooks/useContent';
 
 const defaultIcons = {
   global: Globe,

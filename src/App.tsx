@@ -1,16 +1,17 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import '@/i18n';
-import { Home } from '@/pages/Home';
-import { AboutPage } from '@/pages/AboutPage';
-import { ProductsPage } from '@/pages/ProductsPage';
-import { TechnologyPage } from '@/pages/TechnologyPage';
-import { PartnersPage } from '@/pages/PartnersPage';
-import { ContactPage } from '@/pages/ContactPage';
-import { AdminLayout } from '@/pages/AdminLayout';
-import { ProductAdmin } from '@/pages/ProductAdmin';
-import { PartnerAdmin } from '@/pages/PartnerAdmin';
-import { ContentAdmin } from '@/pages/ContentAdmin';
-import { ProductModal } from '@/components/ProductModal';
+import './i18n';
+import { Home } from './pages/Home';
+import { AboutPage } from './pages/AboutPage';
+import { ProductsPage } from './pages/ProductsPage';
+import { TechnologyPage } from './pages/TechnologyPage';
+import { PartnersPage } from './pages/PartnersPage';
+import { ContactPage } from './pages/ContactPage';
+import { AdminLayout } from './pages/AdminLayout';
+import { ProductAdmin } from './pages/ProductAdmin';
+import { PartnerAdmin } from './pages/PartnerAdmin';
+import { ContentAdmin } from './pages/ContentAdmin';
+import { ProductModal } from './components/ProductModal';
+import { BackToTop } from './components/BackToTop';
 
 export default function App() {
   return (
@@ -30,6 +31,7 @@ export default function App() {
         </Route>
       </Routes>
       <ProductModal />
+      <BackToTop />
     </Router>
   );
 }

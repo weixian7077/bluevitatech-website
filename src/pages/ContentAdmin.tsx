@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Save, RefreshCw, Plus, Trash2, ChevronRight, ChevronDown, Settings, Upload, Image, Type, Palette, FileText, List, Eye, EyeOff } from 'lucide-react';
-import { useStore } from '@/store/useStore';
+import { useStore } from '../store/useStore';
 
 const API_BASE = import.meta.env.VITE_API_BASE || '';
 

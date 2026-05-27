@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Plus, Pencil, Trash2, X, Upload, ExternalLink } from 'lucide-react';
-import { Partner } from '@/types';
+import { Partner } from '../types';
 
 const API_BASE = import.meta.env.VITE_API_BASE || '';
 

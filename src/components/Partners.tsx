@@ -1,8 +1,8 @@
 import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Partner } from '@/types';
-import { useStore } from '@/store/useStore';
-import { useContent } from '@/hooks/useContent';
+import { Partner } from '../types';
+import { useStore } from '../store/useStore';
+import { useContent } from '../hooks/useContent';
 import { ExternalLink, Building2 } from 'lucide-react';
 
 const API_BASE = import.meta.env.VITE_API_BASE || '';

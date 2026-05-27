@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
-import { useStore } from '@/store/useStore';
-import { useContent } from '@/hooks/useContent';
+import { useStore } from '../store/useStore';
+import { useContent } from '../hooks/useContent';
 import { Link } from 'react-router-dom';
 import { ChevronDown, Zap, Shield, Globe, Award } from 'lucide-react';
 

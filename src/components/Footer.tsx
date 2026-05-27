@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
-import { useContent } from '@/hooks/useContent';
-import { useStore } from '@/store/useStore';
+import { useContent } from '../hooks/useContent';
+import { useStore } from '../store/useStore';
 import { Heart } from 'lucide-react';
 
 export function Footer() {

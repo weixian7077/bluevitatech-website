@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { Product, Partner, Language } from '@/types';
+import { Product, Partner, Language } from '../types';
 
 interface AppState {
   language: Language;
@@ -19,7 +19,7 @@ interface AppState {
 }
 
 export const useStore = create<AppState>((set) => ({
-  language: (localStorage.getItem('language') as Language) || 'zh',
+  language: (localStorage.getItem('language') as Language) || 'en',
   setLanguage: (lang) => {
     localStorage.setItem('language', lang);
     set({ language: lang });

@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
-import { useContent } from '@/hooks/useContent';
-import { useStore } from '@/store/useStore';
+import { useContent } from '../hooks/useContent';
+import { useStore } from '../store/useStore';
 import { Cpu, Shield, Globe, Zap, Award, Network } from 'lucide-react';
 
 const techIcons = [Cpu, Shield, Globe, Zap, Award, Network];
